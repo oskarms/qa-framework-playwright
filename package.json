@@ -1,0 +1,26 @@
+{
+  "name": "qa-framework-playwright",
+  "version": "1.0.0",
+  "description": "This project is a sample end-to-end (E2E) automated testing framework and API, created to demonstrate skills as a QA Automation Engineer / SDET.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oskarms/qa-framework-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oskarms/qa-framework-playwright/issues"
+  },
+  "homepage": "https://github.com/oskarms/qa-framework-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.52.0",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.19.4",
+    "typescript": "^5.8.3"
+  }
+}
